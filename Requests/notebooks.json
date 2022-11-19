@@ -1,0 +1,389 @@
+{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('fadiaelkhatib1%40gmail.com')/onenote/notebooks",
+  "value": [
+    {
+      "id": "0-DBE4762DE03DD8F0!54305",
+      "self": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!54305",
+      "createdDateTime": "2021-03-01T03:50:04.58Z",
+      "displayName": "Dish Network",
+      "lastModifiedDateTime": "2021-03-29T03:38:02.033Z",
+      "isDefault": false,
+      "userRole": "Owner",
+      "isShared": false,
+      "sectionsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!54305/sections",
+      "sectionGroupsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!54305/sectionGroups",
+      "createdBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "lastModifiedBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "links": {
+        "oneNoteClientUrl": {
+          "href": "onenote:https://d.docs.live.net/dbe4762de03dd8f0/Documents/Dish%20Network"
+        },
+        "oneNoteWebUrl": {
+          "href": "https://onedrive.live.com/redir.aspx?cid=dbe4762de03dd8f0&page=edit&resid=DBE4762DE03DD8F0!54305"
+        }
+      }
+    },
+    {
+      "id": "0-DBE4762DE03DD8F0!57424",
+      "self": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!57424",
+      "createdDateTime": "2021-10-07T04:47:28.06Z",
+      "displayName": "DIY",
+      "lastModifiedDateTime": "2021-12-24T20:36:39.31Z",
+      "isDefault": false,
+      "userRole": "Owner",
+      "isShared": false,
+      "sectionsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!57424/sections",
+      "sectionGroupsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!57424/sectionGroups",
+      "createdBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "lastModifiedBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "links": {
+        "oneNoteClientUrl": {
+          "href": "onenote:https://d.docs.live.net/dbe4762de03dd8f0/Documents/DIY"
+        },
+        "oneNoteWebUrl": {
+          "href": "https://onedrive.live.com/redir.aspx?cid=dbe4762de03dd8f0&page=edit&resid=DBE4762DE03DD8F0!57424"
+        }
+      }
+    },
+    {
+      "id": "0-DBE4762DE03DD8F0!51310",
+      "self": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!51310",
+      "createdDateTime": "2020-02-10T17:27:14.827Z",
+      "displayName": "Entercom",
+      "lastModifiedDateTime": "2022-11-19T02:41:11.2Z",
+      "isDefault": false,
+      "userRole": "Owner",
+      "isShared": false,
+      "sectionsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!51310/sections",
+      "sectionGroupsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!51310/sectionGroups",
+      "createdBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "lastModifiedBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "links": {
+        "oneNoteClientUrl": {
+          "href": "onenote:https://d.docs.live.net/dbe4762de03dd8f0/Documents/Entercom"
+        },
+        "oneNoteWebUrl": {
+          "href": "https://onedrive.live.com/redir.aspx?cid=dbe4762de03dd8f0&page=edit&resid=DBE4762DE03DD8F0!51310"
+        }
+      }
+    },
+    {
+      "id": "0-DBE4762DE03DD8F0!328",
+      "self": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!328",
+      "createdDateTime": "2013-08-09T15:17:19.56Z",
+      "displayName": "Fadi's Notebook",
+      "lastModifiedDateTime": "2022-11-19T05:02:54.13Z",
+      "isDefault": true,
+      "userRole": "Owner",
+      "isShared": true,
+      "sectionsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!328/sections",
+      "sectionGroupsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!328/sectionGroups",
+      "createdBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "lastModifiedBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "links": {
+        "oneNoteClientUrl": {
+          "href": "onenote:https://d.docs.live.net/dbe4762de03dd8f0/Documents/Fadi's%20Notebook"
+        },
+        "oneNoteWebUrl": {
+          "href": "https://onedrive.live.com/redir.aspx?cid=dbe4762de03dd8f0&page=edit&resid=DBE4762DE03DD8F0!328"
+        }
+      }
+    },
+    {
+      "id": "0-DBE4762DE03DD8F0!227",
+      "self": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!227",
+      "createdDateTime": "2013-06-04T12:14:50.563Z",
+      "displayName": "Gravitons and ALE Spaces",
+      "lastModifiedDateTime": "2020-03-20T03:25:38.02Z",
+      "isDefault": false,
+      "userRole": "Owner",
+      "isShared": false,
+      "sectionsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!227/sections",
+      "sectionGroupsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!227/sectionGroups",
+      "createdBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "lastModifiedBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "links": {
+        "oneNoteClientUrl": {
+          "href": "onenote:https://d.docs.live.net/dbe4762de03dd8f0/Documents/Gravitons%20and%20ALE%20Spaces"
+        },
+        "oneNoteWebUrl": {
+          "href": "https://onedrive.live.com/redir.aspx?cid=dbe4762de03dd8f0&page=edit&resid=DBE4762DE03DD8F0!227"
+        }
+      }
+    },
+    {
+      "id": "0-DBE4762DE03DD8F0!205",
+      "self": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!205",
+      "createdDateTime": "2013-06-04T12:10:16.677Z",
+      "displayName": "Hyperbolic Ansatz",
+      "lastModifiedDateTime": "2020-03-20T03:25:36.333Z",
+      "isDefault": false,
+      "userRole": "Owner",
+      "isShared": false,
+      "sectionsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!205/sections",
+      "sectionGroupsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!205/sectionGroups",
+      "createdBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "lastModifiedBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "links": {
+        "oneNoteClientUrl": {
+          "href": "onenote:https://d.docs.live.net/dbe4762de03dd8f0/Documents/Hyperbolic%20Ansatz"
+        },
+        "oneNoteWebUrl": {
+          "href": "https://onedrive.live.com/redir.aspx?cid=dbe4762de03dd8f0&page=edit&resid=DBE4762DE03DD8F0!205"
+        }
+      }
+    },
+    {
+      "id": "0-DBE4762DE03DD8F0!56725",
+      "self": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!56725",
+      "createdDateTime": "2021-03-24T04:06:11.157Z",
+      "displayName": "Journal",
+      "lastModifiedDateTime": "2021-04-25T08:43:32.92Z",
+      "isDefault": false,
+      "userRole": "Owner",
+      "isShared": false,
+      "sectionsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!56725/sections",
+      "sectionGroupsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!56725/sectionGroups",
+      "createdBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "lastModifiedBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "links": {
+        "oneNoteClientUrl": {
+          "href": "onenote:https://d.docs.live.net/dbe4762de03dd8f0/Documents/Journal"
+        },
+        "oneNoteWebUrl": {
+          "href": "https://onedrive.live.com/redir.aspx?cid=dbe4762de03dd8f0&page=edit&resid=DBE4762DE03DD8F0!56725"
+        }
+      }
+    },
+    {
+      "id": "0-DBE4762DE03DD8F0!29794",
+      "self": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!29794",
+      "createdDateTime": "2018-08-10T10:54:53.09Z",
+      "displayName": "Personal",
+      "lastModifiedDateTime": "2022-11-18T22:16:33.733Z",
+      "isDefault": false,
+      "userRole": "Owner",
+      "isShared": false,
+      "sectionsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!29794/sections",
+      "sectionGroupsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!29794/sectionGroups",
+      "createdBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "lastModifiedBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "links": {
+        "oneNoteClientUrl": {
+          "href": "onenote:https://d.docs.live.net/dbe4762de03dd8f0/Documents/Personal"
+        },
+        "oneNoteWebUrl": {
+          "href": "https://onedrive.live.com/redir.aspx?cid=dbe4762de03dd8f0&page=edit&resid=DBE4762DE03DD8F0!29794"
+        }
+      }
+    },
+    {
+      "id": "0-DBE4762DE03DD8F0!242",
+      "self": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!242",
+      "createdDateTime": "2013-06-04T21:12:19.363Z",
+      "displayName": "Personal Notes",
+      "lastModifiedDateTime": "2020-02-09T14:04:49.143Z",
+      "isDefault": false,
+      "userRole": "Owner",
+      "isShared": false,
+      "sectionsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!242/sections",
+      "sectionGroupsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!242/sectionGroups",
+      "createdBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "lastModifiedBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "links": {
+        "oneNoteClientUrl": {
+          "href": "onenote:https://d.docs.live.net/dbe4762de03dd8f0/Documents/Personal%20Notes"
+        },
+        "oneNoteWebUrl": {
+          "href": "https://onedrive.live.com/redir.aspx?cid=dbe4762de03dd8f0&page=edit&resid=DBE4762DE03DD8F0!242"
+        }
+      }
+    },
+    {
+      "id": "0-DBE4762DE03DD8F0!4189",
+      "self": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!4189",
+      "createdDateTime": "2014-10-06T23:18:51.67Z",
+      "displayName": "Tasks",
+      "lastModifiedDateTime": "2017-06-09T19:51:06.677Z",
+      "isDefault": false,
+      "userRole": "Owner",
+      "isShared": false,
+      "sectionsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!4189/sections",
+      "sectionGroupsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!4189/sectionGroups",
+      "createdBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "lastModifiedBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "links": {
+        "oneNoteClientUrl": {
+          "href": "onenote:https://d.docs.live.net/dbe4762de03dd8f0/Documents/Tasks"
+        },
+        "oneNoteWebUrl": {
+          "href": "https://onedrive.live.com/redir.aspx?cid=dbe4762de03dd8f0&page=edit&resid=DBE4762DE03DD8F0!4189"
+        }
+      }
+    },
+    {
+      "id": "0-DBE4762DE03DD8F0!54062",
+      "self": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!54062",
+      "createdDateTime": "2020-09-25T15:44:03.713Z",
+      "displayName": "Thesis Work",
+      "lastModifiedDateTime": "2022-02-28T06:06:17.867Z",
+      "isDefault": false,
+      "userRole": "Owner",
+      "isShared": false,
+      "sectionsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!54062/sections",
+      "sectionGroupsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!54062/sectionGroups",
+      "createdBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "lastModifiedBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "links": {
+        "oneNoteClientUrl": {
+          "href": "onenote:https://d.docs.live.net/dbe4762de03dd8f0/Documents/Thesis%20Work"
+        },
+        "oneNoteWebUrl": {
+          "href": "https://onedrive.live.com/redir.aspx?cid=dbe4762de03dd8f0&page=edit&resid=DBE4762DE03DD8F0!54062"
+        }
+      }
+    },
+    {
+      "id": "0-DBE4762DE03DD8F0!57524",
+      "self": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!57524",
+      "createdDateTime": "2022-02-18T17:17:51.21Z",
+      "displayName": "Wedding",
+      "lastModifiedDateTime": "2022-06-20T22:44:56.187Z",
+      "isDefault": false,
+      "userRole": "Owner",
+      "isShared": true,
+      "sectionsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!57524/sections",
+      "sectionGroupsUrl": "https://graph.microsoft.com/v1.0/users/fadiaelkhatib1@gmail.com/onenote/notebooks/0-DBE4762DE03DD8F0!57524/sectionGroups",
+      "createdBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "lastModifiedBy": {
+        "user": {
+          "id": "DBE4762DE03DD8F0",
+          "displayName": "Fadi Elkhatib"
+        }
+      },
+      "links": {
+        "oneNoteClientUrl": {
+          "href": "onenote:https://d.docs.live.net/dbe4762de03dd8f0/Documents/Wedding"
+        },
+        "oneNoteWebUrl": {
+          "href": "https://onedrive.live.com/redir.aspx?cid=dbe4762de03dd8f0&page=edit&resid=DBE4762DE03DD8F0!57524"
+        }
+      }
+    }
+  ]
+}
