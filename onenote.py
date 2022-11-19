@@ -8,7 +8,7 @@ class Section:
     pass
 class Page:
     pass
-class PageHTML:
+class Table:
     pass
-class HTMLTable:
+class List:
     pass
