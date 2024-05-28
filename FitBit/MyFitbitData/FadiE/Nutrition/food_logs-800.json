@@ -1,0 +1,57 @@
+[{
+  "logId" : 23490699987,
+  "loggedFood" : {
+    "foodId" : 14711299,
+    "locale" : "en_US",
+    "name" : "Cashews, Halves & Pieces",
+    "brand" : "Emerald",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 210,
+    "amount" : 35.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 2
+  },
+  "nutritionalValues" : {
+    "calories" : 210,
+    "fat" : 17.0,
+    "fiber" : 1.0,
+    "carbs" : 11.0,
+    "sodium" : 110.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2020-10-04",
+  "favorite" : false
+},{
+  "logId" : 23491182224,
+  "loggedFood" : {
+    "foodId" : 692062579,
+    "locale" : "en_US",
+    "name" : "K-Cup,",
+    "brand" : "Folgers",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 3,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 3,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 5.33,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-04",
+  "favorite" : false
+}]

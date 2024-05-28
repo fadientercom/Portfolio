@@ -1,0 +1,2609 @@
+[{
+  "logId" : 23705203352,
+  "loggedFood" : {
+    "foodId" : 81870,
+    "locale" : "en_US",
+    "name" : "White Rice",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,91,256,279,226,180,147,389],
+    "calories" : 148,
+    "amount" : 0.3,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2020-10-22",
+  "favorite" : false
+},{
+  "logId" : 23697910054,
+  "loggedFood" : {
+    "foodId" : 49260,
+    "locale" : "en_US",
+    "name" : "Milk, 2%",
+    "brand" : "Country Inn & Suites",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279],
+    "calories" : 120,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2020-10-22",
+  "favorite" : false
+},{
+  "logId" : 23694526810,
+  "loggedFood" : {
+    "foodId" : 14722686,
+    "locale" : "en_US",
+    "name" : "International Delight Gourmet Coffee Creamer",
+    "brand" : "French Vanilla",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 80,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 80,
+    "fat" : 8.0,
+    "fiber" : 0.0,
+    "carbs" : 4.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-22",
+  "favorite" : false
+},{
+  "logId" : 23694613601,
+  "loggedFood" : {
+    "foodId" : 14737673,
+    "locale" : "en_US",
+    "name" : "Honey Bunches of Oats Cereal",
+    "brand" : "Post",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 320,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 320,
+    "fat" : 4.0,
+    "fiber" : 5.33,
+    "carbs" : 66.67,
+    "sodium" : 360.0,
+    "protein" : 5.33
+  },
+  "logDate" : "2020-10-22",
+  "favorite" : false
+},{
+  "logId" : 23696425970,
+  "loggedFood" : {
+    "foodId" : 692062579,
+    "locale" : "en_US",
+    "name" : "K-Cup,",
+    "brand" : "Folgers",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 3,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 3,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 5.33,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-22",
+  "favorite" : false
+},{
+  "logId" : 23683683119,
+  "loggedFood" : {
+    "foodId" : 14727647,
+    "locale" : "en_US",
+    "name" : "Potato Chips, Jalapeno",
+    "brand" : "Kettle Brand",
+    "accessLevel" : "PUBLIC",
+    "units" : [60,226,180,147,389],
+    "calories" : 346,
+    "amount" : 30.0,
+    "unit" : {
+      "id" : 60,
+      "name" : "chip",
+      "plural" : "chips"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 346,
+    "fat" : 20.77,
+    "fiber" : 4.62,
+    "carbs" : 34.62,
+    "sodium" : 392.31,
+    "protein" : 4.62
+  },
+  "logDate" : "2020-10-21",
+  "favorite" : false
+},{
+  "logId" : 23680603448,
+  "loggedFood" : {
+    "foodId" : 13185,
+    "locale" : "en_US",
+    "name" : "Mixed Vegetables, Boiled, No Salt",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [228,91,256,279,226,180,147,389],
+    "calories" : 236,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2020-10-21",
+  "favorite" : false
+},{
+  "logId" : 23683142206,
+  "loggedFood" : {
+    "foodId" : 7650,
+    "locale" : "en_US",
+    "name" : "Ground Beef, Raw, 85% Lean",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 120,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2020-10-21",
+  "favorite" : false
+},{
+  "logId" : 23683898575,
+  "loggedFood" : {
+    "foodId" : 81000,
+    "locale" : "en_US",
+    "name" : "Banana",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [16,121,120,304,319,204,179,91,256,279,226,180,147,389],
+    "calories" : 90,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2020-10-21",
+  "favorite" : false
+},{
+  "logId" : 23682264805,
+  "loggedFood" : {
+    "foodId" : 721566279,
+    "locale" : "en_US",
+    "name" : "Snack Medleys, Cheddar Cheese",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 180,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 12.0,
+    "fiber" : 1.0,
+    "carbs" : 10.0,
+    "sodium" : 160.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2020-10-21",
+  "favorite" : false
+},{
+  "logId" : 23683967292,
+  "loggedFood" : {
+    "foodId" : 14737673,
+    "locale" : "en_US",
+    "name" : "Honey Bunches of Oats Cereal",
+    "brand" : "Post",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 320,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 320,
+    "fat" : 4.0,
+    "fiber" : 5.33,
+    "carbs" : 66.67,
+    "sodium" : 360.0,
+    "protein" : 5.33
+  },
+  "logDate" : "2020-10-21",
+  "favorite" : false
+},{
+  "logId" : 23681930325,
+  "loggedFood" : {
+    "foodId" : 49260,
+    "locale" : "en_US",
+    "name" : "Milk, 2%",
+    "brand" : "Country Inn & Suites",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279],
+    "calories" : 180,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2020-10-21",
+  "favorite" : false
+},{
+  "logId" : 23682205796,
+  "loggedFood" : {
+    "foodId" : 14722686,
+    "locale" : "en_US",
+    "name" : "International Delight Gourmet Coffee Creamer",
+    "brand" : "French Vanilla",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 80,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 80,
+    "fat" : 8.0,
+    "fiber" : 0.0,
+    "carbs" : 4.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-21",
+  "favorite" : false
+},{
+  "logId" : 23681428469,
+  "loggedFood" : {
+    "foodId" : 692062579,
+    "locale" : "en_US",
+    "name" : "K-Cup,",
+    "brand" : "Folgers",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 3,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 3,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 5.33,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-21",
+  "favorite" : false
+},{
+  "logId" : 23682111232,
+  "loggedFood" : {
+    "foodId" : 692780967,
+    "locale" : "en_US",
+    "name" : "Peanut Butter Cups",
+    "brand" : "Reese's",
+    "accessLevel" : "PUBLIC",
+    "units" : [251,226,180,147,389],
+    "calories" : 240,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 240,
+    "fat" : 13.5,
+    "fiber" : 1.5,
+    "carbs" : 27.0,
+    "sodium" : 165.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2020-10-20",
+  "favorite" : false
+},{
+  "logId" : 23683125541,
+  "loggedFood" : {
+    "foodId" : 766070838,
+    "locale" : "en_US",
+    "name" : "Sports Drink, Zero Sugar, Fruit Punch",
+    "brand" : "Powerade",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401],
+    "calories" : 0,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 0,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 0.83,
+    "sodium" : 250.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-20",
+  "favorite" : false
+},{
+  "logId" : 23683794162,
+  "loggedFood" : {
+    "foodId" : 765348652,
+    "locale" : "en_US",
+    "name" : "100 Grand, Fun Size",
+    "brand" : "Ferrara",
+    "accessLevel" : "PUBLIC",
+    "units" : [17,226,180,147,389],
+    "calories" : 100,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 17,
+      "name" : "bar",
+      "plural" : "bars"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 100,
+    "fat" : 4.0,
+    "fiber" : 0.0,
+    "carbs" : 15.0,
+    "sodium" : 45.0,
+    "protein" : 0.5
+  },
+  "logDate" : "2020-10-20",
+  "favorite" : false
+},{
+  "logId" : 23684393562,
+  "loggedFood" : {
+    "foodId" : 81838,
+    "locale" : "en_US",
+    "name" : "Chicken Breast, Skinless",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 180,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2020-10-20",
+  "favorite" : false
+},{
+  "logId" : 23685111899,
+  "loggedFood" : {
+    "foodId" : 13958251,
+    "locale" : "en_US",
+    "name" : "Cheesy Jalapeno Dip",
+    "brand" : "Little Caesars Pizza",
+    "accessLevel" : "PUBLIC",
+    "units" : [69],
+    "calories" : 140,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 140,
+    "fat" : 15.0,
+    "fiber" : 0.0,
+    "carbs" : 2.0,
+    "sodium" : 340.0,
+    "protein" : 1.0
+  },
+  "logDate" : "2020-10-20",
+  "favorite" : false
+},{
+  "logId" : 23685180767,
+  "loggedFood" : {
+    "foodId" : 7650,
+    "locale" : "en_US",
+    "name" : "Ground Beef, Raw, 85% Lean",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 60,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2020-10-20",
+  "favorite" : false
+},{
+  "logId" : 23681893877,
+  "loggedFood" : {
+    "foodId" : 26377,
+    "locale" : "en_US",
+    "name" : "Mixed Vegetables, Boiled W/salt",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [228,91,256,279,226,180,147,389],
+    "calories" : 109,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2020-10-20",
+  "favorite" : false
+},{
+  "logId" : 23670719257,
+  "loggedFood" : {
+    "foodId" : 721616956,
+    "locale" : "en_US",
+    "name" : "Pepper Jack Cheese, Raisins, And Honey Roasted Peanuts",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 360,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 360,
+    "fat" : 24.0,
+    "fiber" : 3.0,
+    "carbs" : 24.0,
+    "sodium" : 360.0,
+    "protein" : 14.0
+  },
+  "logDate" : "2020-10-20",
+  "favorite" : false
+},{
+  "logId" : 23670070180,
+  "loggedFood" : {
+    "foodId" : 725055074,
+    "locale" : "en_US",
+    "name" : "Gala Apple",
+    "brand" : "Algoma Orchards",
+    "accessLevel" : "PUBLIC",
+    "units" : [4,226,180,147,389],
+    "calories" : 80,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 4,
+      "name" : "apple",
+      "plural" : "apples"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 80,
+    "fat" : 0.0,
+    "fiber" : 4.0,
+    "carbs" : 21.0,
+    "sodium" : 0.0,
+    "protein" : 0.4
+  },
+  "logDate" : "2020-10-20",
+  "favorite" : false
+},{
+  "logId" : 23670000435,
+  "loggedFood" : {
+    "foodId" : 692062579,
+    "locale" : "en_US",
+    "name" : "K-Cup,",
+    "brand" : "Folgers",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 3,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 3,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 5.33,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-20",
+  "favorite" : false
+},{
+  "logId" : 23671122523,
+  "loggedFood" : {
+    "foodId" : 14731353,
+    "locale" : "en_US",
+    "name" : "Coffee Creamer, French Vanilla",
+    "brand" : "Coffee-Mate",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 140,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 140,
+    "fat" : 6.0,
+    "fiber" : 0.0,
+    "carbs" : 20.0,
+    "sodium" : 20.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-20",
+  "favorite" : false
+},{
+  "logId" : 23672171599,
+  "loggedFood" : {
+    "foodId" : 14731570,
+    "locale" : "en_US",
+    "name" : "Fruit Barrels Fruit Punch",
+    "brand" : "Little Hug",
+    "accessLevel" : "PUBLIC",
+    "units" : [27,209,189,128,364,349,91,256,279,401],
+    "calories" : 10,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 27,
+      "name" : "bottle",
+      "plural" : "bottles"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 10,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 2.0,
+    "sodium" : 80.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-19",
+  "favorite" : false
+},{
+  "logId" : 23670557581,
+  "loggedFood" : {
+    "foodId" : 766070838,
+    "locale" : "en_US",
+    "name" : "Sports Drink, Zero Sugar, Fruit Punch",
+    "brand" : "Powerade",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401],
+    "calories" : 0,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 0,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 0.83,
+    "sodium" : 250.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-19",
+  "favorite" : false
+},{
+  "logId" : 23672012441,
+  "loggedFood" : {
+    "foodId" : 44316,
+    "locale" : "en_US",
+    "name" : "14\" Hot-N-Ready Pizza - Cheese",
+    "brand" : "Little Caesars",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,226,180,147,389],
+    "calories" : 960,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2020-10-19",
+  "favorite" : false
+},{
+  "logId" : 23667967467,
+  "loggedFood" : {
+    "foodId" : 13958251,
+    "locale" : "en_US",
+    "name" : "Cheesy Jalapeno Dip",
+    "brand" : "Little Caesars Pizza",
+    "accessLevel" : "PUBLIC",
+    "units" : [69],
+    "calories" : 140,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 140,
+    "fat" : 15.0,
+    "fiber" : 0.0,
+    "carbs" : 2.0,
+    "sodium" : 340.0,
+    "protein" : 1.0
+  },
+  "logDate" : "2020-10-19",
+  "favorite" : false
+},{
+  "logId" : 23670731947,
+  "loggedFood" : {
+    "foodId" : 721616956,
+    "locale" : "en_US",
+    "name" : "Pepper Jack Cheese, Raisins, And Honey Roasted Peanuts",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 180,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 12.0,
+    "fiber" : 1.5,
+    "carbs" : 12.0,
+    "sodium" : 180.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2020-10-19",
+  "favorite" : false
+},{
+  "logId" : 23668655347,
+  "loggedFood" : {
+    "foodId" : 721566279,
+    "locale" : "en_US",
+    "name" : "Snack Medleys, Cheddar Cheese",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 360,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 360,
+    "fat" : 24.0,
+    "fiber" : 2.0,
+    "carbs" : 20.0,
+    "sodium" : 320.0,
+    "protein" : 14.0
+  },
+  "logDate" : "2020-10-19",
+  "favorite" : false
+},{
+  "logId" : 23660122948,
+  "loggedFood" : {
+    "foodId" : 14722686,
+    "locale" : "en_US",
+    "name" : "International Delight Gourmet Coffee Creamer",
+    "brand" : "French Vanilla",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 60,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 6.0,
+    "fiber" : 0.0,
+    "carbs" : 3.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-19",
+  "favorite" : false
+},{
+  "logId" : 23654615942,
+  "loggedFood" : {
+    "foodId" : 14731570,
+    "locale" : "en_US",
+    "name" : "Fruit Barrels Fruit Punch",
+    "brand" : "Little Hug",
+    "accessLevel" : "PUBLIC",
+    "units" : [27,209,189,128,364,349,91,256,279,401],
+    "calories" : 10,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 27,
+      "name" : "bottle",
+      "plural" : "bottles"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 10,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 2.0,
+    "sodium" : 80.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-19",
+  "favorite" : false
+},{
+  "logId" : 23663448762,
+  "loggedFood" : {
+    "foodId" : 692062579,
+    "locale" : "en_US",
+    "name" : "K-Cup,",
+    "brand" : "Folgers",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 3,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 3,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 5.33,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-19",
+  "favorite" : false
+},{
+  "logId" : 23659877082,
+  "loggedFood" : {
+    "foodId" : 14737673,
+    "locale" : "en_US",
+    "name" : "Honey Bunches of Oats Cereal",
+    "brand" : "Post",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 400,
+    "amount" : 2.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 400,
+    "fat" : 5.0,
+    "fiber" : 6.67,
+    "carbs" : 83.33,
+    "sodium" : 450.0,
+    "protein" : 6.67
+  },
+  "logDate" : "2020-10-19",
+  "favorite" : false
+},{
+  "logId" : 23661215208,
+  "loggedFood" : {
+    "foodId" : 49260,
+    "locale" : "en_US",
+    "name" : "Milk, 2%",
+    "brand" : "Country Inn & Suites",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279],
+    "calories" : 180,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2020-10-19",
+  "favorite" : false
+},{
+  "logId" : 23650166285,
+  "loggedFood" : {
+    "foodId" : 692136662,
+    "locale" : "en_US",
+    "name" : "Cookies & Cream Ice Cream Cake",
+    "brand" : "Jon Donaire",
+    "accessLevel" : "PUBLIC",
+    "units" : [42,226,180,147,389],
+    "calories" : 650,
+    "amount" : 0.2,
+    "unit" : {
+      "id" : 42,
+      "name" : "cake",
+      "plural" : "cakes"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 650,
+    "fat" : 32.5,
+    "fiber" : 2.5,
+    "carbs" : 80.0,
+    "sodium" : 312.5,
+    "protein" : 7.5
+  },
+  "logDate" : "2020-10-18",
+  "favorite" : false
+},{
+  "logId" : 23650482030,
+  "loggedFood" : {
+    "foodId" : 721600819,
+    "locale" : "en_US",
+    "name" : "Roasted Cashew Sea Salt",
+    "brand" : "Simple truth",
+    "accessLevel" : "PUBLIC",
+    "units" : [366,226,180,147,389],
+    "calories" : 800,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 366,
+      "name" : "tube",
+      "plural" : "tubes"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 800,
+    "fat" : 68.0,
+    "fiber" : 8.0,
+    "carbs" : 40.0,
+    "sodium" : 600.0,
+    "protein" : 28.0
+  },
+  "logDate" : "2020-10-18",
+  "favorite" : false
+},{
+  "logId" : 23647331789,
+  "loggedFood" : {
+    "foodId" : 14007808,
+    "locale" : "en_US",
+    "name" : "Filet-O-Fish",
+    "brand" : "McDonald's",
+    "accessLevel" : "PUBLIC",
+    "units" : [296,226,180,147,389],
+    "calories" : 1170,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 296,
+      "name" : "sandwich",
+      "plural" : "sandwiches"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 1170,
+    "fat" : 57.0,
+    "fiber" : 6.0,
+    "carbs" : 114.0,
+    "sodium" : 1680.0,
+    "protein" : 51.0
+  },
+  "logDate" : "2020-10-18",
+  "favorite" : false
+},{
+  "logId" : 23647339312,
+  "loggedFood" : {
+    "foodId" : 49260,
+    "locale" : "en_US",
+    "name" : "Milk, 2%",
+    "brand" : "Country Inn & Suites",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279],
+    "calories" : 120,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2020-10-18",
+  "favorite" : false
+},{
+  "logId" : 23651196473,
+  "loggedFood" : {
+    "foodId" : 14731353,
+    "locale" : "en_US",
+    "name" : "Coffee Creamer, French Vanilla",
+    "brand" : "Coffee-Mate",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 105,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 105,
+    "fat" : 4.5,
+    "fiber" : 0.0,
+    "carbs" : 15.0,
+    "sodium" : 15.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-18",
+  "favorite" : false
+},{
+  "logId" : 23650557010,
+  "loggedFood" : {
+    "foodId" : 14737673,
+    "locale" : "en_US",
+    "name" : "Honey Bunches of Oats Cereal",
+    "brand" : "Post",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 320,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 320,
+    "fat" : 4.0,
+    "fiber" : 5.33,
+    "carbs" : 66.67,
+    "sodium" : 360.0,
+    "protein" : 5.33
+  },
+  "logDate" : "2020-10-18",
+  "favorite" : false
+},{
+  "logId" : 23649307234,
+  "loggedFood" : {
+    "foodId" : 692062579,
+    "locale" : "en_US",
+    "name" : "K-Cup,",
+    "brand" : "Folgers",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 3,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 3,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 5.33,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-18",
+  "favorite" : false
+},{
+  "logId" : 23650102020,
+  "loggedFood" : {
+    "foodId" : 766070838,
+    "locale" : "en_US",
+    "name" : "Sports Drink, Zero Sugar, Fruit Punch",
+    "brand" : "Powerade",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401],
+    "calories" : 0,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 0,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 0.83,
+    "sodium" : 250.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-17",
+  "favorite" : false
+},{
+  "logId" : 23646943412,
+  "loggedFood" : {
+    "foodId" : 692136662,
+    "locale" : "en_US",
+    "name" : "Cookies & Cream Ice Cream Cake",
+    "brand" : "Jon Donaire",
+    "accessLevel" : "PUBLIC",
+    "units" : [42,226,180,147,389],
+    "calories" : 423,
+    "amount" : 0.13,
+    "unit" : {
+      "id" : 42,
+      "name" : "cake",
+      "plural" : "cakes"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 423,
+    "fat" : 21.13,
+    "fiber" : 1.63,
+    "carbs" : 52.0,
+    "sodium" : 203.13,
+    "protein" : 4.88
+  },
+  "logDate" : "2020-10-17",
+  "favorite" : false
+},{
+  "logId" : 23650958058,
+  "loggedFood" : {
+    "foodId" : 779350850,
+    "name" : "3 meat platter",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [69],
+    "calories" : 1200,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2020-10-17",
+  "favorite" : false
+},{
+  "logId" : 23651676131,
+  "loggedFood" : {
+    "foodId" : 721600819,
+    "locale" : "en_US",
+    "name" : "Roasted Cashew Sea Salt",
+    "brand" : "Simple truth",
+    "accessLevel" : "PUBLIC",
+    "units" : [366,226,180,147,389],
+    "calories" : 200,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 366,
+      "name" : "tube",
+      "plural" : "tubes"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 200,
+    "fat" : 17.0,
+    "fiber" : 2.0,
+    "carbs" : 10.0,
+    "sodium" : 150.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2020-10-17",
+  "favorite" : false
+},{
+  "logId" : 23647808332,
+  "loggedFood" : {
+    "foodId" : 49260,
+    "locale" : "en_US",
+    "name" : "Milk, 2%",
+    "brand" : "Country Inn & Suites",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279],
+    "calories" : 120,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2020-10-17",
+  "favorite" : false
+},{
+  "logId" : 23650819406,
+  "loggedFood" : {
+    "foodId" : 14722686,
+    "locale" : "en_US",
+    "name" : "International Delight Gourmet Coffee Creamer",
+    "brand" : "French Vanilla",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 80,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 80,
+    "fat" : 8.0,
+    "fiber" : 0.0,
+    "carbs" : 4.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-17",
+  "favorite" : false
+},{
+  "logId" : 23650032263,
+  "loggedFood" : {
+    "foodId" : 14737673,
+    "locale" : "en_US",
+    "name" : "Honey Bunches of Oats Cereal",
+    "brand" : "Post",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 320,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 320,
+    "fat" : 4.0,
+    "fiber" : 5.33,
+    "carbs" : 66.67,
+    "sodium" : 360.0,
+    "protein" : 5.33
+  },
+  "logDate" : "2020-10-17",
+  "favorite" : false
+},{
+  "logId" : 23649815738,
+  "loggedFood" : {
+    "foodId" : 692062579,
+    "locale" : "en_US",
+    "name" : "K-Cup,",
+    "brand" : "Folgers",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 3,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 3,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 5.33,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-17",
+  "favorite" : false
+},{
+  "logId" : 23637172046,
+  "loggedFood" : {
+    "foodId" : 692136662,
+    "locale" : "en_US",
+    "name" : "Cookies & Cream Ice Cream Cake",
+    "brand" : "Jon Donaire",
+    "accessLevel" : "PUBLIC",
+    "units" : [42,226,180,147,389],
+    "calories" : 423,
+    "amount" : 0.13,
+    "unit" : {
+      "id" : 42,
+      "name" : "cake",
+      "plural" : "cakes"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 423,
+    "fat" : 21.13,
+    "fiber" : 1.63,
+    "carbs" : 52.0,
+    "sodium" : 203.13,
+    "protein" : 4.88
+  },
+  "logDate" : "2020-10-16",
+  "favorite" : false
+},{
+  "logId" : 23637428153,
+  "loggedFood" : {
+    "foodId" : 766070838,
+    "locale" : "en_US",
+    "name" : "Sports Drink, Zero Sugar, Fruit Punch",
+    "brand" : "Powerade",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401],
+    "calories" : 0,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 0,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 0.83,
+    "sodium" : 250.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-16",
+  "favorite" : false
+},{
+  "logId" : 23637997611,
+  "loggedFood" : {
+    "foodId" : 13958251,
+    "locale" : "en_US",
+    "name" : "Cheesy Jalapeno Dip",
+    "brand" : "Little Caesars Pizza",
+    "accessLevel" : "PUBLIC",
+    "units" : [69],
+    "calories" : 140,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 140,
+    "fat" : 15.0,
+    "fiber" : 0.0,
+    "carbs" : 2.0,
+    "sodium" : 340.0,
+    "protein" : 1.0
+  },
+  "logDate" : "2020-10-16",
+  "favorite" : false
+},{
+  "logId" : 23636444029,
+  "loggedFood" : {
+    "foodId" : 44316,
+    "locale" : "en_US",
+    "name" : "14\" Hot-N-Ready Pizza - Cheese",
+    "brand" : "Little Caesars",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,226,180,147,389],
+    "calories" : 720,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2020-10-16",
+  "favorite" : false
+},{
+  "logId" : 23634140456,
+  "loggedFood" : {
+    "foodId" : 721566279,
+    "locale" : "en_US",
+    "name" : "Snack Medleys, Cheddar Cheese",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 360,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 360,
+    "fat" : 24.0,
+    "fiber" : 2.0,
+    "carbs" : 20.0,
+    "sodium" : 320.0,
+    "protein" : 14.0
+  },
+  "logDate" : "2020-10-16",
+  "favorite" : false
+},{
+  "logId" : 23635153753,
+  "loggedFood" : {
+    "foodId" : 721616956,
+    "locale" : "en_US",
+    "name" : "Pepper Jack Cheese, Raisins, And Honey Roasted Peanuts",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 180,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 12.0,
+    "fiber" : 1.5,
+    "carbs" : 12.0,
+    "sodium" : 180.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2020-10-16",
+  "favorite" : false
+},{
+  "logId" : 23636952327,
+  "loggedFood" : {
+    "foodId" : 49260,
+    "locale" : "en_US",
+    "name" : "Milk, 2%",
+    "brand" : "Country Inn & Suites",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279],
+    "calories" : 120,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2020-10-16",
+  "favorite" : false
+},{
+  "logId" : 23635466309,
+  "loggedFood" : {
+    "foodId" : 692062579,
+    "locale" : "en_US",
+    "name" : "K-Cup,",
+    "brand" : "Folgers",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 3,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 3,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 5.33,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-16",
+  "favorite" : false
+},{
+  "logId" : 23636184663,
+  "loggedFood" : {
+    "foodId" : 14737673,
+    "locale" : "en_US",
+    "name" : "Honey Bunches of Oats Cereal",
+    "brand" : "Post",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 320,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 320,
+    "fat" : 4.0,
+    "fiber" : 5.33,
+    "carbs" : 66.67,
+    "sodium" : 360.0,
+    "protein" : 5.33
+  },
+  "logDate" : "2020-10-16",
+  "favorite" : false
+},{
+  "logId" : 23637565889,
+  "loggedFood" : {
+    "foodId" : 14731570,
+    "locale" : "en_US",
+    "name" : "Fruit Barrels Fruit Punch",
+    "brand" : "Little Hug",
+    "accessLevel" : "PUBLIC",
+    "units" : [27,209,189,128,364,349,91,256,279,401],
+    "calories" : 10,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 27,
+      "name" : "bottle",
+      "plural" : "bottles"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 10,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 2.0,
+    "sodium" : 80.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-16",
+  "favorite" : false
+},{
+  "logId" : 23633567704,
+  "loggedFood" : {
+    "foodId" : 14722686,
+    "locale" : "en_US",
+    "name" : "International Delight Gourmet Coffee Creamer",
+    "brand" : "French Vanilla",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 80,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 80,
+    "fat" : 8.0,
+    "fiber" : 0.0,
+    "carbs" : 4.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-16",
+  "favorite" : false
+},{
+  "logId" : 23624773156,
+  "loggedFood" : {
+    "foodId" : 721600819,
+    "locale" : "en_US",
+    "name" : "Roasted Cashew Sea Salt",
+    "brand" : "Simple truth",
+    "accessLevel" : "PUBLIC",
+    "units" : [366,226,180,147,389],
+    "calories" : 200,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 366,
+      "name" : "tube",
+      "plural" : "tubes"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 200,
+    "fat" : 17.0,
+    "fiber" : 2.0,
+    "carbs" : 10.0,
+    "sodium" : 150.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2020-10-15",
+  "favorite" : false
+},{
+  "logId" : 23624054576,
+  "loggedFood" : {
+    "foodId" : 14731570,
+    "locale" : "en_US",
+    "name" : "Fruit Barrels Fruit Punch",
+    "brand" : "Little Hug",
+    "accessLevel" : "PUBLIC",
+    "units" : [27,209,189,128,364,349,91,256,279,401],
+    "calories" : 10,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 27,
+      "name" : "bottle",
+      "plural" : "bottles"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 10,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 2.0,
+    "sodium" : 80.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-15",
+  "favorite" : false
+},{
+  "logId" : 23625028961,
+  "loggedFood" : {
+    "foodId" : 14727647,
+    "locale" : "en_US",
+    "name" : "Potato Chips, Jalapeno",
+    "brand" : "Kettle Brand",
+    "accessLevel" : "PUBLIC",
+    "units" : [60,226,180,147,389],
+    "calories" : 346,
+    "amount" : 30.0,
+    "unit" : {
+      "id" : 60,
+      "name" : "chip",
+      "plural" : "chips"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 346,
+    "fat" : 20.77,
+    "fiber" : 4.62,
+    "carbs" : 34.62,
+    "sodium" : 392.31,
+    "protein" : 4.62
+  },
+  "logDate" : "2020-10-15",
+  "favorite" : false
+},{
+  "logId" : 23623846012,
+  "loggedFood" : {
+    "foodId" : 81604,
+    "locale" : "en_US",
+    "name" : "Chicken Thighs",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [353,304,226,180,147,389],
+    "calories" : 223,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 353,
+      "name" : "thigh",
+      "plural" : "thighs"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2020-10-15",
+  "favorite" : false
+},{
+  "logId" : 23622498009,
+  "loggedFood" : {
+    "foodId" : 14524985,
+    "locale" : "en_US",
+    "name" : "Tater Tots",
+    "brand" : "Ore-Ida",
+    "accessLevel" : "PUBLIC",
+    "units" : [251,226,180,147,389],
+    "calories" : 53,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 53,
+    "fat" : 2.67,
+    "fiber" : 0.67,
+    "carbs" : 6.67,
+    "sodium" : 140.0,
+    "protein" : 0.67
+  },
+  "logDate" : "2020-10-15",
+  "favorite" : false
+},{
+  "logId" : 23623472117,
+  "loggedFood" : {
+    "foodId" : 721600819,
+    "locale" : "en_US",
+    "name" : "Roasted Cashew Sea Salt",
+    "brand" : "Simple truth",
+    "accessLevel" : "PUBLIC",
+    "units" : [366,226,180,147,389],
+    "calories" : 200,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 366,
+      "name" : "tube",
+      "plural" : "tubes"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 200,
+    "fat" : 17.0,
+    "fiber" : 2.0,
+    "carbs" : 10.0,
+    "sodium" : 150.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2020-10-15",
+  "favorite" : false
+},{
+  "logId" : 23625801061,
+  "loggedFood" : {
+    "foodId" : 49260,
+    "locale" : "en_US",
+    "name" : "Milk, 2%",
+    "brand" : "Country Inn & Suites",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279],
+    "calories" : 120,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2020-10-15",
+  "favorite" : false
+},{
+  "logId" : 23621264766,
+  "loggedFood" : {
+    "foodId" : 692062579,
+    "locale" : "en_US",
+    "name" : "K-Cup,",
+    "brand" : "Folgers",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 3,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 3,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 5.33,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-15",
+  "favorite" : false
+},{
+  "logId" : 23621608851,
+  "loggedFood" : {
+    "foodId" : 14737673,
+    "locale" : "en_US",
+    "name" : "Honey Bunches of Oats Cereal",
+    "brand" : "Post",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 320,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 320,
+    "fat" : 4.0,
+    "fiber" : 5.33,
+    "carbs" : 66.67,
+    "sodium" : 360.0,
+    "protein" : 5.33
+  },
+  "logDate" : "2020-10-15",
+  "favorite" : false
+},{
+  "logId" : 23624584352,
+  "loggedFood" : {
+    "foodId" : 14722686,
+    "locale" : "en_US",
+    "name" : "International Delight Gourmet Coffee Creamer",
+    "brand" : "French Vanilla",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 60,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 6.0,
+    "fiber" : 0.0,
+    "carbs" : 3.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-15",
+  "favorite" : false
+},{
+  "logId" : 23623813334,
+  "loggedFood" : {
+    "foodId" : 14722686,
+    "locale" : "en_US",
+    "name" : "International Delight Gourmet Coffee Creamer",
+    "brand" : "French Vanilla",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 60,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 6.0,
+    "fiber" : 0.0,
+    "carbs" : 3.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-15",
+  "favorite" : false
+},{
+  "logId" : 23621907419,
+  "loggedFood" : {
+    "foodId" : 692062579,
+    "locale" : "en_US",
+    "name" : "K-Cup,",
+    "brand" : "Folgers",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 3,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 3,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 5.33,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-15",
+  "favorite" : false
+},{
+  "logId" : 23622448376,
+  "loggedFood" : {
+    "foodId" : 14731570,
+    "locale" : "en_US",
+    "name" : "Fruit Barrels Fruit Punch",
+    "brand" : "Little Hug",
+    "accessLevel" : "PUBLIC",
+    "units" : [27,209,189,128,364,349,91,256,279,401],
+    "calories" : 10,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 27,
+      "name" : "bottle",
+      "plural" : "bottles"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 10,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 2.0,
+    "sodium" : 80.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-15",
+  "favorite" : false
+},{
+  "logId" : 23623938621,
+  "loggedFood" : {
+    "foodId" : 721600819,
+    "locale" : "en_US",
+    "name" : "Roasted Cashew Sea Salt",
+    "brand" : "Simple truth",
+    "accessLevel" : "PUBLIC",
+    "units" : [366,226,180,147,389],
+    "calories" : 200,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 366,
+      "name" : "tube",
+      "plural" : "tubes"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 200,
+    "fat" : 17.0,
+    "fiber" : 2.0,
+    "carbs" : 10.0,
+    "sodium" : 150.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2020-10-14",
+  "favorite" : false
+},{
+  "logId" : 23622620065,
+  "loggedFood" : {
+    "foodId" : 14727647,
+    "locale" : "en_US",
+    "name" : "Potato Chips, Jalapeno",
+    "brand" : "Kettle Brand",
+    "accessLevel" : "PUBLIC",
+    "units" : [60,226,180,147,389],
+    "calories" : 519,
+    "amount" : 45.0,
+    "unit" : {
+      "id" : 60,
+      "name" : "chip",
+      "plural" : "chips"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 519,
+    "fat" : 31.15,
+    "fiber" : 6.92,
+    "carbs" : 51.92,
+    "sodium" : 588.46,
+    "protein" : 6.92
+  },
+  "logDate" : "2020-10-14",
+  "favorite" : false
+},{
+  "logId" : 23624342518,
+  "loggedFood" : {
+    "foodId" : 766070838,
+    "locale" : "en_US",
+    "name" : "Sports Drink, Zero Sugar, Fruit Punch",
+    "brand" : "Powerade",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401],
+    "calories" : 0,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 0,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 0.83,
+    "sodium" : 250.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-14",
+  "favorite" : false
+},{
+  "logId" : 23612253514,
+  "loggedFood" : {
+    "foodId" : 82636,
+    "locale" : "en_US",
+    "name" : "Salad",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304],
+    "calories" : 185,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2020-10-14",
+  "favorite" : false
+},{
+  "logId" : 23623259564,
+  "loggedFood" : {
+    "foodId" : 26377,
+    "locale" : "en_US",
+    "name" : "Mixed Vegetables, Boiled W/salt",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [228,91,256,279,226,180,147,389],
+    "calories" : 164,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2020-10-14",
+  "favorite" : false
+},{
+  "logId" : 23622441410,
+  "loggedFood" : {
+    "foodId" : 17960594,
+    "locale" : "en_US",
+    "name" : "Boneless, Skinless Chicken Thighs",
+    "brand" : "F&e Ready to Cook",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 195,
+    "amount" : 6.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 195,
+    "fat" : 6.75,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 142.5,
+    "protein" : 33.0
+  },
+  "logDate" : "2020-10-14",
+  "favorite" : false
+},{
+  "logId" : 23608314886,
+  "loggedFood" : {
+    "foodId" : 721591981,
+    "locale" : "en_US",
+    "name" : "Carbmaster, Vanilla",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 70,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 70,
+    "fat" : 1.5,
+    "fiber" : 0.0,
+    "carbs" : 5.0,
+    "sodium" : 120.0,
+    "protein" : 9.0
+  },
+  "logDate" : "2020-10-14",
+  "favorite" : false
+},{
+  "logId" : 23612684345,
+  "loggedFood" : {
+    "foodId" : 721616956,
+    "locale" : "en_US",
+    "name" : "Pepper Jack Cheese, Raisins, And Honey Roasted Peanuts",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 180,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 12.0,
+    "fiber" : 1.5,
+    "carbs" : 12.0,
+    "sodium" : 180.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2020-10-14",
+  "favorite" : false
+},{
+  "logId" : 23613078268,
+  "loggedFood" : {
+    "foodId" : 721566279,
+    "locale" : "en_US",
+    "name" : "Snack Medleys, Cheddar Cheese",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 360,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 360,
+    "fat" : 24.0,
+    "fiber" : 2.0,
+    "carbs" : 20.0,
+    "sodium" : 320.0,
+    "protein" : 14.0
+  },
+  "logDate" : "2020-10-14",
+  "favorite" : false
+},{
+  "logId" : 23607997642,
+  "loggedFood" : {
+    "foodId" : 49260,
+    "locale" : "en_US",
+    "name" : "Milk, 2%",
+    "brand" : "Country Inn & Suites",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279],
+    "calories" : 120,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2020-10-14",
+  "favorite" : false
+},{
+  "logId" : 23609257168,
+  "loggedFood" : {
+    "foodId" : 14737673,
+    "locale" : "en_US",
+    "name" : "Honey Bunches of Oats Cereal",
+    "brand" : "Post",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 320,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 320,
+    "fat" : 4.0,
+    "fiber" : 5.33,
+    "carbs" : 66.67,
+    "sodium" : 360.0,
+    "protein" : 5.33
+  },
+  "logDate" : "2020-10-14",
+  "favorite" : false
+},{
+  "logId" : 23609283690,
+  "loggedFood" : {
+    "foodId" : 766070838,
+    "locale" : "en_US",
+    "name" : "Sports Drink, Zero Sugar, Fruit Punch",
+    "brand" : "Powerade",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401],
+    "calories" : 0,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 0,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 0.83,
+    "sodium" : 250.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-13",
+  "favorite" : false
+},{
+  "logId" : 23609401726,
+  "loggedFood" : {
+    "foodId" : 26377,
+    "locale" : "en_US",
+    "name" : "Mixed Vegetables, Boiled W/salt",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [228,91,256,279,226,180,147,389],
+    "calories" : 109,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2020-10-13",
+  "favorite" : false
+},{
+  "logId" : 23609283553,
+  "loggedFood" : {
+    "foodId" : 7650,
+    "locale" : "en_US",
+    "name" : "Ground Beef, Raw, 85% Lean",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 300,
+    "amount" : 5.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2020-10-13",
+  "favorite" : false
+},{
+  "logId" : 23611772191,
+  "loggedFood" : {
+    "foodId" : 721566279,
+    "locale" : "en_US",
+    "name" : "Snack Medleys, Cheddar Cheese",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 360,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 360,
+    "fat" : 24.0,
+    "fiber" : 2.0,
+    "carbs" : 20.0,
+    "sodium" : 320.0,
+    "protein" : 14.0
+  },
+  "logDate" : "2020-10-13",
+  "favorite" : false
+},{
+  "logId" : 23608642433,
+  "loggedFood" : {
+    "foodId" : 721616956,
+    "locale" : "en_US",
+    "name" : "Pepper Jack Cheese, Raisins, And Honey Roasted Peanuts",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 180,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 12.0,
+    "fiber" : 1.5,
+    "carbs" : 12.0,
+    "sodium" : 180.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2020-10-13",
+  "favorite" : false
+},{
+  "logId" : 23608829423,
+  "loggedFood" : {
+    "foodId" : 721591981,
+    "locale" : "en_US",
+    "name" : "Carbmaster, Vanilla",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 70,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 70,
+    "fat" : 1.5,
+    "fiber" : 0.0,
+    "carbs" : 5.0,
+    "sodium" : 120.0,
+    "protein" : 9.0
+  },
+  "logDate" : "2020-10-13",
+  "favorite" : false
+},{
+  "logId" : 23598982429,
+  "loggedFood" : {
+    "foodId" : 14722686,
+    "locale" : "en_US",
+    "name" : "International Delight Gourmet Coffee Creamer",
+    "brand" : "French Vanilla",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 60,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 6.0,
+    "fiber" : 0.0,
+    "carbs" : 3.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-13",
+  "favorite" : false
+},{
+  "logId" : 23600055342,
+  "loggedFood" : {
+    "foodId" : 49260,
+    "locale" : "en_US",
+    "name" : "Milk, 2%",
+    "brand" : "Country Inn & Suites",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279],
+    "calories" : 120,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2020-10-13",
+  "favorite" : false
+},{
+  "logId" : 23596472929,
+  "loggedFood" : {
+    "foodId" : 14737673,
+    "locale" : "en_US",
+    "name" : "Honey Bunches of Oats Cereal",
+    "brand" : "Post",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 320,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 320,
+    "fat" : 4.0,
+    "fiber" : 5.33,
+    "carbs" : 66.67,
+    "sodium" : 360.0,
+    "protein" : 5.33
+  },
+  "logDate" : "2020-10-13",
+  "favorite" : false
+},{
+  "logId" : 23595321811,
+  "loggedFood" : {
+    "foodId" : 14731570,
+    "locale" : "en_US",
+    "name" : "Fruit Barrels Fruit Punch",
+    "brand" : "Little Hug",
+    "accessLevel" : "PUBLIC",
+    "units" : [27,209,189,128,364,349,91,256,279,401],
+    "calories" : 10,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 27,
+      "name" : "bottle",
+      "plural" : "bottles"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 10,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 2.0,
+    "sodium" : 80.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-13",
+  "favorite" : false
+},{
+  "logId" : 23596522221,
+  "loggedFood" : {
+    "foodId" : 692062579,
+    "locale" : "en_US",
+    "name" : "K-Cup,",
+    "brand" : "Folgers",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 3,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 3,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 5.33,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-10-13",
+  "favorite" : false
+},{
+  "logId" : 23599066475,
+  "loggedFood" : {
+    "foodId" : 728859720,
+    "locale" : "en_US",
+    "name" : "Thin Crust Pizza, Cheese",
+    "brand" : "Little Caesars Pizza",
+    "accessLevel" : "PUBLIC",
+    "units" : [311],
+    "calories" : 650,
+    "amount" : 5.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 650,
+    "fat" : 30.0,
+    "fiber" : 5.0,
+    "carbs" : 55.0,
+    "sodium" : 950.0,
+    "protein" : 30.0
+  },
+  "logDate" : "2020-10-12",
+  "favorite" : false
+},{
+  "logId" : 23595632088,
+  "loggedFood" : {
+    "foodId" : 13958251,
+    "locale" : "en_US",
+    "name" : "Cheesy Jalapeno Dip",
+    "brand" : "Little Caesars Pizza",
+    "accessLevel" : "PUBLIC",
+    "units" : [69],
+    "calories" : 140,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 140,
+    "fat" : 15.0,
+    "fiber" : 0.0,
+    "carbs" : 2.0,
+    "sodium" : 340.0,
+    "protein" : 1.0
+  },
+  "logDate" : "2020-10-12",
+  "favorite" : false
+},{
+  "logId" : 23595315486,
+  "loggedFood" : {
+    "foodId" : 721591981,
+    "locale" : "en_US",
+    "name" : "Carbmaster, Vanilla",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 70,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 70,
+    "fat" : 1.5,
+    "fiber" : 0.0,
+    "carbs" : 5.0,
+    "sodium" : 120.0,
+    "protein" : 9.0
+  },
+  "logDate" : "2020-10-12",
+  "favorite" : false
+}]

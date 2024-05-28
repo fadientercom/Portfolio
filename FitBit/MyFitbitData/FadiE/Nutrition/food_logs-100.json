@@ -1,0 +1,2569 @@
+[{
+  "logId" : 33897107410,
+  "loggedFood" : {
+    "foodId" : 816092514,
+    "name" : "toast keto",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [311],
+    "calories" : 35,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 1,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-27",
+  "favorite" : false
+},{
+  "logId" : 33889197611,
+  "loggedFood" : {
+    "foodId" : 692144084,
+    "locale" : "en_US",
+    "name" : "Milk, 2% Reduced Fat",
+    "brand" : "King Soopers",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401],
+    "calories" : 60,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 2.5,
+    "fiber" : 0.0,
+    "carbs" : 6.0,
+    "sodium" : 60.0,
+    "protein" : 4.0
+  },
+  "logDate" : "2024-04-26",
+  "favorite" : false
+},{
+  "logId" : 33887122004,
+  "loggedFood" : {
+    "foodId" : 807198938,
+    "locale" : "en_US",
+    "name" : "Cereal, Vanilla Almond Crunch",
+    "brand" : "Ratio",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 175,
+    "amount" : 1.25,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 175,
+    "fat" : 8.75,
+    "fiber" : 3.75,
+    "carbs" : 23.75,
+    "sodium" : 287.5,
+    "protein" : 12.5
+  },
+  "logDate" : "2024-04-26",
+  "favorite" : false
+},{
+  "logId" : 33887041513,
+  "loggedFood" : {
+    "foodId" : 816373811,
+    "name" : "Chicken thigh w/ roast potatoes and zucchini",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [304],
+    "calories" : 750,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-26",
+  "favorite" : false
+},{
+  "logId" : 33888890969,
+  "loggedFood" : {
+    "foodId" : 789583220,
+    "locale" : "en_US",
+    "name" : "Yogurt, Zero Sugar, Vanilla",
+    "brand" : "Chobani",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 60,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 0.0,
+    "fiber" : 0.5,
+    "carbs" : 5.0,
+    "sodium" : 60.0,
+    "protein" : 11.0
+  },
+  "logDate" : "2024-04-26",
+  "favorite" : false
+},{
+  "logId" : 33888507332,
+  "loggedFood" : {
+    "foodId" : 721566279,
+    "locale" : "en_US",
+    "name" : "Snack Medleys, Cheddar Cheese",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 180,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 12.0,
+    "fiber" : 1.0,
+    "carbs" : 10.0,
+    "sodium" : 160.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2024-04-26",
+  "favorite" : false
+},{
+  "logId" : 33884249682,
+  "loggedFood" : {
+    "foodId" : 14045516,
+    "locale" : "en_US",
+    "name" : "Sunny Side Up Egg",
+    "brand" : "The Counter",
+    "accessLevel" : "PUBLIC",
+    "units" : [304],
+    "calories" : 200,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 200,
+    "fat" : 14.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 200.0,
+    "protein" : 14.0
+  },
+  "logDate" : "2024-04-26",
+  "favorite" : false
+},{
+  "logId" : 33888379333,
+  "loggedFood" : {
+    "foodId" : 797877530,
+    "locale" : "en_US",
+    "name" : "Variety Pack Fruit Barrels Flavored Drinks",
+    "brand" : "Little Hug",
+    "accessLevel" : "PUBLIC",
+    "units" : [27],
+    "calories" : 5,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 27,
+      "name" : "bottle",
+      "plural" : "bottles"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 5,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 1.0,
+    "sodium" : 95.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2024-04-26",
+  "favorite" : false
+},{
+  "logId" : 33888025066,
+  "loggedFood" : {
+    "foodId" : 816092514,
+    "name" : "toast keto",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [311],
+    "calories" : 35,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 1,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-26",
+  "favorite" : false
+},{
+  "logId" : 33879730190,
+  "loggedFood" : {
+    "foodId" : 816329735,
+    "name" : "Maamoul-Zalatimo",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [17],
+    "calories" : 130,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 17,
+      "name" : "bar",
+      "plural" : "bars"
+    },
+    "mealTypeId" : 6,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-25",
+  "favorite" : false
+},{
+  "logId" : 33879504492,
+  "loggedFood" : {
+    "foodId" : 804205327,
+    "locale" : "en_US",
+    "name" : "Mixed Nuts, Honey Roasted",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 160,
+    "amount" : 0.25,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 160,
+    "fat" : 12.0,
+    "fiber" : 2.0,
+    "carbs" : 10.0,
+    "sodium" : 125.0,
+    "protein" : 5.0
+  },
+  "logDate" : "2024-04-25",
+  "favorite" : false
+},{
+  "logId" : 33879386822,
+  "loggedFood" : {
+    "foodId" : 22786937,
+    "locale" : "en_US",
+    "name" : "Boom Chicka Pop, White Cheddar Popcorn",
+    "brand" : "Angie's",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 120,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 120,
+    "fat" : 7.2,
+    "fiber" : 2.4,
+    "carbs" : 12.0,
+    "sodium" : 208.0,
+    "protein" : 2.4
+  },
+  "logDate" : "2024-04-25",
+  "favorite" : false
+},{
+  "logId" : 33880754154,
+  "loggedFood" : {
+    "foodId" : 692149019,
+    "locale" : "en_US",
+    "name" : "Rice Cakes, Caramel",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [42,226,180,147,389],
+    "calories" : 100,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 42,
+      "name" : "cake",
+      "plural" : "cakes"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 100,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 22.0,
+    "sodium" : 50.0,
+    "protein" : 1.0
+  },
+  "logDate" : "2024-04-25",
+  "favorite" : false
+},{
+  "logId" : 33880467341,
+  "loggedFood" : {
+    "foodId" : 816353798,
+    "name" : "Chicken rice pan dinner",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [304],
+    "calories" : 600,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-25",
+  "favorite" : false
+},{
+  "logId" : 33879413248,
+  "loggedFood" : {
+    "foodId" : 721566279,
+    "locale" : "en_US",
+    "name" : "Snack Medleys, Cheddar Cheese",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 180,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 12.0,
+    "fiber" : 1.0,
+    "carbs" : 10.0,
+    "sodium" : 160.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2024-04-25",
+  "favorite" : false
+},{
+  "logId" : 33880288877,
+  "loggedFood" : {
+    "foodId" : 789583220,
+    "locale" : "en_US",
+    "name" : "Yogurt, Zero Sugar, Vanilla",
+    "brand" : "Chobani",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 60,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 0.0,
+    "fiber" : 0.5,
+    "carbs" : 5.0,
+    "sodium" : 60.0,
+    "protein" : 11.0
+  },
+  "logDate" : "2024-04-25",
+  "favorite" : false
+},{
+  "logId" : 33879226153,
+  "loggedFood" : {
+    "foodId" : 792156280,
+    "locale" : "en_US",
+    "name" : "Biscotti, Limone",
+    "brand" : "Nonni's",
+    "accessLevel" : "PUBLIC",
+    "units" : [22,226,180,147,389],
+    "calories" : 110,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 22,
+      "name" : "biscuit",
+      "plural" : "biscuits"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 110,
+    "fat" : 3.5,
+    "fiber" : 0.0,
+    "carbs" : 18.0,
+    "sodium" : 95.0,
+    "protein" : 2.0
+  },
+  "logDate" : "2024-04-25",
+  "favorite" : false
+},{
+  "logId" : 33871128898,
+  "loggedFood" : {
+    "foodId" : 692149019,
+    "locale" : "en_US",
+    "name" : "Rice Cakes, Caramel",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [42,226,180,147,389],
+    "calories" : 50,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 42,
+      "name" : "cake",
+      "plural" : "cakes"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 50,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 11.0,
+    "sodium" : 25.0,
+    "protein" : 0.5
+  },
+  "logDate" : "2024-04-24",
+  "favorite" : false
+},{
+  "logId" : 33870046787,
+  "loggedFood" : {
+    "foodId" : 692144084,
+    "locale" : "en_US",
+    "name" : "Milk, 2% Reduced Fat",
+    "brand" : "King Soopers",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401],
+    "calories" : 60,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 2.5,
+    "fiber" : 0.0,
+    "carbs" : 6.0,
+    "sodium" : 60.0,
+    "protein" : 4.0
+  },
+  "logDate" : "2024-04-24",
+  "favorite" : false
+},{
+  "logId" : 33870263126,
+  "loggedFood" : {
+    "foodId" : 804205327,
+    "locale" : "en_US",
+    "name" : "Mixed Nuts, Honey Roasted",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 256,
+    "amount" : 0.4,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 256,
+    "fat" : 19.2,
+    "fiber" : 3.2,
+    "carbs" : 16.0,
+    "sodium" : 200.0,
+    "protein" : 8.0
+  },
+  "logDate" : "2024-04-24",
+  "favorite" : false
+},{
+  "logId" : 33872142467,
+  "loggedFood" : {
+    "foodId" : 772034652,
+    "locale" : "en_US",
+    "name" : "Cereal, Frosted, Whole Grain, Large Size",
+    "brand" : "Cheerios",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 210,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 210,
+    "fat" : 2.25,
+    "fiber" : 4.5,
+    "carbs" : 43.5,
+    "sodium" : 300.0,
+    "protein" : 4.5
+  },
+  "logDate" : "2024-04-24",
+  "favorite" : false
+},{
+  "logId" : 33871650298,
+  "loggedFood" : {
+    "foodId" : 22786937,
+    "locale" : "en_US",
+    "name" : "Boom Chicka Pop, White Cheddar Popcorn",
+    "brand" : "Angie's",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 30,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 30,
+    "fat" : 1.8,
+    "fiber" : 0.6,
+    "carbs" : 3.0,
+    "sodium" : 52.0,
+    "protein" : 0.6
+  },
+  "logDate" : "2024-04-24",
+  "favorite" : false
+},{
+  "logId" : 33871874763,
+  "loggedFood" : {
+    "foodId" : 816332064,
+    "name" : "Rami's food",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [304],
+    "calories" : 593,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-24",
+  "favorite" : false
+},{
+  "logId" : 33871422542,
+  "loggedFood" : {
+    "foodId" : 816329735,
+    "name" : "Maamoul-Zalatimo",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [17],
+    "calories" : 130,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 17,
+      "name" : "bar",
+      "plural" : "bars"
+    },
+    "mealTypeId" : 4,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-24",
+  "favorite" : false
+},{
+  "logId" : 33872179696,
+  "loggedFood" : {
+    "foodId" : 737244819,
+    "locale" : "en_US",
+    "name" : "12\" Medium Pan Pizza, Double Cheese",
+    "brand" : "Domino's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 250,
+    "amount" : 2.5,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 250,
+    "fat" : 17.5,
+    "fiber" : 0.0,
+    "carbs" : 7.5,
+    "sodium" : 750.0,
+    "protein" : 17.5
+  },
+  "logDate" : "2024-04-24",
+  "favorite" : false
+},{
+  "logId" : 33870192107,
+  "loggedFood" : {
+    "foodId" : 797877530,
+    "locale" : "en_US",
+    "name" : "Variety Pack Fruit Barrels Flavored Drinks",
+    "brand" : "Little Hug",
+    "accessLevel" : "PUBLIC",
+    "units" : [27],
+    "calories" : 5,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 27,
+      "name" : "bottle",
+      "plural" : "bottles"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 5,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 1.0,
+    "sodium" : 95.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2024-04-24",
+  "favorite" : false
+},{
+  "logId" : 33862054299,
+  "loggedFood" : {
+    "foodId" : 692149019,
+    "locale" : "en_US",
+    "name" : "Rice Cakes, Caramel",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [42,226,180,147,389],
+    "calories" : 50,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 42,
+      "name" : "cake",
+      "plural" : "cakes"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 50,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 11.0,
+    "sodium" : 25.0,
+    "protein" : 0.5
+  },
+  "logDate" : "2024-04-23",
+  "favorite" : false
+},{
+  "logId" : 33864751036,
+  "loggedFood" : {
+    "foodId" : 692144084,
+    "locale" : "en_US",
+    "name" : "Milk, 2% Reduced Fat",
+    "brand" : "King Soopers",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401],
+    "calories" : 60,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 2.5,
+    "fiber" : 0.0,
+    "carbs" : 6.0,
+    "sodium" : 60.0,
+    "protein" : 4.0
+  },
+  "logDate" : "2024-04-23",
+  "favorite" : false
+},{
+  "logId" : 33864898770,
+  "loggedFood" : {
+    "foodId" : 772034652,
+    "locale" : "en_US",
+    "name" : "Cereal, Frosted, Whole Grain, Large Size",
+    "brand" : "Cheerios",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 210,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 210,
+    "fat" : 2.25,
+    "fiber" : 4.5,
+    "carbs" : 43.5,
+    "sodium" : 300.0,
+    "protein" : 4.5
+  },
+  "logDate" : "2024-04-23",
+  "favorite" : false
+},{
+  "logId" : 33862339810,
+  "loggedFood" : {
+    "foodId" : 804205327,
+    "locale" : "en_US",
+    "name" : "Mixed Nuts, Honey Roasted",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 160,
+    "amount" : 0.25,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 160,
+    "fat" : 12.0,
+    "fiber" : 2.0,
+    "carbs" : 10.0,
+    "sodium" : 125.0,
+    "protein" : 5.0
+  },
+  "logDate" : "2024-04-23",
+  "favorite" : false
+},{
+  "logId" : 33861896679,
+  "loggedFood" : {
+    "foodId" : 22786937,
+    "locale" : "en_US",
+    "name" : "Boom Chicka Pop, White Cheddar Popcorn",
+    "brand" : "Angie's",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 30,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 4
+  },
+  "nutritionalValues" : {
+    "calories" : 30,
+    "fat" : 1.8,
+    "fiber" : 0.6,
+    "carbs" : 3.0,
+    "sodium" : 52.0,
+    "protein" : 0.6
+  },
+  "logDate" : "2024-04-23",
+  "favorite" : false
+},{
+  "logId" : 33862454271,
+  "loggedFood" : {
+    "foodId" : 816302936,
+    "name" : "FelFel",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [304],
+    "calories" : 1000,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-23",
+  "favorite" : false
+},{
+  "logId" : 33864475389,
+  "loggedFood" : {
+    "foodId" : 797877530,
+    "locale" : "en_US",
+    "name" : "Variety Pack Fruit Barrels Flavored Drinks",
+    "brand" : "Little Hug",
+    "accessLevel" : "PUBLIC",
+    "units" : [27],
+    "calories" : 5,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 27,
+      "name" : "bottle",
+      "plural" : "bottles"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 5,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 1.0,
+    "sodium" : 95.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2024-04-23",
+  "favorite" : false
+},{
+  "logId" : 33858729742,
+  "loggedFood" : {
+    "foodId" : 772034652,
+    "locale" : "en_US",
+    "name" : "Cereal, Frosted, Whole Grain, Large Size",
+    "brand" : "Cheerios",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 210,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 210,
+    "fat" : 2.25,
+    "fiber" : 4.5,
+    "carbs" : 43.5,
+    "sodium" : 300.0,
+    "protein" : 4.5
+  },
+  "logDate" : "2024-04-22",
+  "favorite" : false
+},{
+  "logId" : 33859172417,
+  "loggedFood" : {
+    "foodId" : 804205327,
+    "locale" : "en_US",
+    "name" : "Mixed Nuts, Honey Roasted",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 512,
+    "amount" : 0.8,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 512,
+    "fat" : 38.4,
+    "fiber" : 6.4,
+    "carbs" : 32.0,
+    "sodium" : 400.0,
+    "protein" : 16.0
+  },
+  "logDate" : "2024-04-22",
+  "favorite" : false
+},{
+  "logId" : 33858109877,
+  "loggedFood" : {
+    "foodId" : 692144084,
+    "locale" : "en_US",
+    "name" : "Milk, 2% Reduced Fat",
+    "brand" : "King Soopers",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401],
+    "calories" : 60,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 2.5,
+    "fiber" : 0.0,
+    "carbs" : 6.0,
+    "sodium" : 60.0,
+    "protein" : 4.0
+  },
+  "logDate" : "2024-04-22",
+  "favorite" : false
+},{
+  "logId" : 33857509736,
+  "loggedFood" : {
+    "foodId" : 816285914,
+    "name" : "Curry",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [304],
+    "calories" : 400,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-22",
+  "favorite" : false
+},{
+  "logId" : 33858818363,
+  "loggedFood" : {
+    "foodId" : 721567040,
+    "locale" : "en_US",
+    "name" : "Snack Medleys, Cheddar Cheese, Salted Roasted Almonds and Dried Cranberries",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 190,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 190,
+    "fat" : 13.0,
+    "fiber" : 2.0,
+    "carbs" : 9.0,
+    "sodium" : 160.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2024-04-22",
+  "favorite" : false
+},{
+  "logId" : 33857224446,
+  "loggedFood" : {
+    "foodId" : 797877530,
+    "locale" : "en_US",
+    "name" : "Variety Pack Fruit Barrels Flavored Drinks",
+    "brand" : "Little Hug",
+    "accessLevel" : "PUBLIC",
+    "units" : [27],
+    "calories" : 5,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 27,
+      "name" : "bottle",
+      "plural" : "bottles"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 5,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 1.0,
+    "sodium" : 95.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2024-04-22",
+  "favorite" : false
+},{
+  "logId" : 33850264389,
+  "loggedFood" : {
+    "foodId" : 804205327,
+    "locale" : "en_US",
+    "name" : "Mixed Nuts, Honey Roasted",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 512,
+    "amount" : 0.8,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 512,
+    "fat" : 38.4,
+    "fiber" : 6.4,
+    "carbs" : 32.0,
+    "sodium" : 400.0,
+    "protein" : 16.0
+  },
+  "logDate" : "2024-04-21",
+  "favorite" : false
+},{
+  "logId" : 33850441447,
+  "loggedFood" : {
+    "foodId" : 772034652,
+    "locale" : "en_US",
+    "name" : "Cereal, Frosted, Whole Grain, Large Size",
+    "brand" : "Cheerios",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 210,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 210,
+    "fat" : 2.25,
+    "fiber" : 4.5,
+    "carbs" : 43.5,
+    "sodium" : 300.0,
+    "protein" : 4.5
+  },
+  "logDate" : "2024-04-21",
+  "favorite" : false
+},{
+  "logId" : 33849034373,
+  "loggedFood" : {
+    "foodId" : 816256856,
+    "name" : "Gyros and Kabob falafel sandwich",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [304],
+    "calories" : 1000,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-21",
+  "favorite" : false
+},{
+  "logId" : 33841482469,
+  "loggedFood" : {
+    "foodId" : 789583220,
+    "locale" : "en_US",
+    "name" : "Yogurt, Zero Sugar, Vanilla",
+    "brand" : "Chobani",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 60,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 0.0,
+    "fiber" : 0.5,
+    "carbs" : 5.0,
+    "sodium" : 60.0,
+    "protein" : 11.0
+  },
+  "logDate" : "2024-04-21",
+  "favorite" : false
+},{
+  "logId" : 33841088765,
+  "loggedFood" : {
+    "foodId" : 721566279,
+    "locale" : "en_US",
+    "name" : "Snack Medleys, Cheddar Cheese",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 180,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 12.0,
+    "fiber" : 1.0,
+    "carbs" : 10.0,
+    "sodium" : 160.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2024-04-21",
+  "favorite" : false
+},{
+  "logId" : 33841423209,
+  "loggedFood" : {
+    "foodId" : 797877530,
+    "locale" : "en_US",
+    "name" : "Variety Pack Fruit Barrels Flavored Drinks",
+    "brand" : "Little Hug",
+    "accessLevel" : "PUBLIC",
+    "units" : [27],
+    "calories" : 5,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 27,
+      "name" : "bottle",
+      "plural" : "bottles"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 5,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 1.0,
+    "sodium" : 95.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2024-04-21",
+  "favorite" : false
+},{
+  "logId" : 33841309696,
+  "loggedFood" : {
+    "foodId" : 791281962,
+    "locale" : "en_US",
+    "name" : "Soft Bake, Chocolate Chunk Cookie, Keto Friendly",
+    "brand" : "Ratio",
+    "accessLevel" : "PUBLIC",
+    "units" : [17,226,180,147,389],
+    "calories" : 100,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 17,
+      "name" : "bar",
+      "plural" : "bars"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 100,
+    "fat" : 9.0,
+    "fiber" : 5.0,
+    "carbs" : 11.0,
+    "sodium" : 75.0,
+    "protein" : 3.0
+  },
+  "logDate" : "2024-04-20",
+  "favorite" : false
+},{
+  "logId" : 33840748858,
+  "loggedFood" : {
+    "foodId" : 804205327,
+    "locale" : "en_US",
+    "name" : "Mixed Nuts, Honey Roasted",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 160,
+    "amount" : 0.25,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 160,
+    "fat" : 12.0,
+    "fiber" : 2.0,
+    "carbs" : 10.0,
+    "sodium" : 125.0,
+    "protein" : 5.0
+  },
+  "logDate" : "2024-04-20",
+  "favorite" : false
+},{
+  "logId" : 33841623872,
+  "loggedFood" : {
+    "foodId" : 816032531,
+    "name" : "Halal-Guys-Style only white sauce fruit salad",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [304],
+    "calories" : 493,
+    "amount" : 1.05,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-20",
+  "favorite" : false
+},{
+  "logId" : 33841680139,
+  "loggedFood" : {
+    "foodId" : 816092514,
+    "name" : "toast keto",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [311],
+    "calories" : 35,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 1,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-20",
+  "favorite" : false
+},{
+  "logId" : 33840853568,
+  "loggedFood" : {
+    "foodId" : 14045516,
+    "locale" : "en_US",
+    "name" : "Sunny Side Up Egg",
+    "brand" : "The Counter",
+    "accessLevel" : "PUBLIC",
+    "units" : [304],
+    "calories" : 200,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 200,
+    "fat" : 14.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 200.0,
+    "protein" : 14.0
+  },
+  "logDate" : "2024-04-20",
+  "favorite" : false
+},{
+  "logId" : 33832778251,
+  "loggedFood" : {
+    "foodId" : 791281962,
+    "locale" : "en_US",
+    "name" : "Soft Bake, Chocolate Chunk Cookie, Keto Friendly",
+    "brand" : "Ratio",
+    "accessLevel" : "PUBLIC",
+    "units" : [17,226,180,147,389],
+    "calories" : 100,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 17,
+      "name" : "bar",
+      "plural" : "bars"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 100,
+    "fat" : 9.0,
+    "fiber" : 5.0,
+    "carbs" : 11.0,
+    "sodium" : 75.0,
+    "protein" : 3.0
+  },
+  "logDate" : "2024-04-19",
+  "favorite" : false
+},{
+  "logId" : 33832788097,
+  "loggedFood" : {
+    "foodId" : 804205327,
+    "locale" : "en_US",
+    "name" : "Mixed Nuts, Honey Roasted",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 160,
+    "amount" : 0.25,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 160,
+    "fat" : 12.0,
+    "fiber" : 2.0,
+    "carbs" : 10.0,
+    "sodium" : 125.0,
+    "protein" : 5.0
+  },
+  "logDate" : "2024-04-19",
+  "favorite" : false
+},{
+  "logId" : 33833240774,
+  "loggedFood" : {
+    "foodId" : 802493369,
+    "locale" : "en_US",
+    "name" : "Rice Crackers, Jalapeno Cilantro, Ancient Grains",
+    "brand" : "Simple truth",
+    "accessLevel" : "PUBLIC",
+    "units" : [74,226,180,147,389],
+    "calories" : 28,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 74,
+      "name" : "cracker",
+      "plural" : "crackers"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 28,
+    "fat" : 0.54,
+    "fiber" : 0.21,
+    "carbs" : 5.14,
+    "sodium" : 20.36,
+    "protein" : 0.43
+  },
+  "logDate" : "2024-04-19",
+  "favorite" : false
+},{
+  "logId" : 33833289237,
+  "loggedFood" : {
+    "foodId" : 816210024,
+    "name" : "Light cottage pie",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [304],
+    "calories" : 505,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-19",
+  "favorite" : false
+},{
+  "logId" : 33832106987,
+  "loggedFood" : {
+    "foodId" : 721567040,
+    "locale" : "en_US",
+    "name" : "Snack Medleys, Cheddar Cheese, Salted Roasted Almonds and Dried Cranberries",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 190,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 190,
+    "fat" : 13.0,
+    "fiber" : 2.0,
+    "carbs" : 9.0,
+    "sodium" : 160.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2024-04-19",
+  "favorite" : false
+},{
+  "logId" : 33832854771,
+  "loggedFood" : {
+    "foodId" : 789583220,
+    "locale" : "en_US",
+    "name" : "Yogurt, Zero Sugar, Vanilla",
+    "brand" : "Chobani",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 60,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 0.0,
+    "fiber" : 0.5,
+    "carbs" : 5.0,
+    "sodium" : 60.0,
+    "protein" : 11.0
+  },
+  "logDate" : "2024-04-19",
+  "favorite" : false
+},{
+  "logId" : 33833573127,
+  "loggedFood" : {
+    "foodId" : 797877530,
+    "locale" : "en_US",
+    "name" : "Variety Pack Fruit Barrels Flavored Drinks",
+    "brand" : "Little Hug",
+    "accessLevel" : "PUBLIC",
+    "units" : [27],
+    "calories" : 5,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 27,
+      "name" : "bottle",
+      "plural" : "bottles"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 5,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 1.0,
+    "sodium" : 95.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2024-04-19",
+  "favorite" : false
+},{
+  "logId" : 33833443369,
+  "loggedFood" : {
+    "foodId" : 721580929,
+    "locale" : "en_US",
+    "name" : "Coffee Creamer, French Vanilla",
+    "brand" : "International Delight",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364],
+    "calories" : 35,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 35,
+    "fat" : 1.5,
+    "fiber" : 0.0,
+    "carbs" : 5.0,
+    "sodium" : 10.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2024-04-19",
+  "favorite" : false
+},{
+  "logId" : 33826077515,
+  "loggedFood" : {
+    "foodId" : 772034652,
+    "locale" : "en_US",
+    "name" : "Cereal, Frosted, Whole Grain, Large Size",
+    "brand" : "Cheerios",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 196,
+    "amount" : 1.4,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 196,
+    "fat" : 2.1,
+    "fiber" : 4.2,
+    "carbs" : 40.6,
+    "sodium" : 280.0,
+    "protein" : 4.2
+  },
+  "logDate" : "2024-04-18",
+  "favorite" : false
+},{
+  "logId" : 33827120788,
+  "loggedFood" : {
+    "foodId" : 692144084,
+    "locale" : "en_US",
+    "name" : "Milk, 2% Reduced Fat",
+    "brand" : "King Soopers",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401],
+    "calories" : 60,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 2.5,
+    "fiber" : 0.0,
+    "carbs" : 6.0,
+    "sodium" : 60.0,
+    "protein" : 4.0
+  },
+  "logDate" : "2024-04-18",
+  "favorite" : false
+},{
+  "logId" : 33826834093,
+  "loggedFood" : {
+    "foodId" : 816189634,
+    "name" : "salmon+fruit salad",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [304],
+    "calories" : 650,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-18",
+  "favorite" : false
+},{
+  "logId" : 33823889692,
+  "loggedFood" : {
+    "foodId" : 721567040,
+    "locale" : "en_US",
+    "name" : "Snack Medleys, Cheddar Cheese, Salted Roasted Almonds and Dried Cranberries",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 190,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 190,
+    "fat" : 13.0,
+    "fiber" : 2.0,
+    "carbs" : 9.0,
+    "sodium" : 160.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2024-04-18",
+  "favorite" : false
+},{
+  "logId" : 33825779684,
+  "loggedFood" : {
+    "foodId" : 789583220,
+    "locale" : "en_US",
+    "name" : "Yogurt, Zero Sugar, Vanilla",
+    "brand" : "Chobani",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 60,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 0.0,
+    "fiber" : 0.5,
+    "carbs" : 5.0,
+    "sodium" : 60.0,
+    "protein" : 11.0
+  },
+  "logDate" : "2024-04-18",
+  "favorite" : false
+},{
+  "logId" : 33825559821,
+  "loggedFood" : {
+    "foodId" : 816093336,
+    "name" : "scrambled eggs",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [304],
+    "calories" : 180,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-18",
+  "favorite" : false
+},{
+  "logId" : 33825549988,
+  "loggedFood" : {
+    "foodId" : 816092514,
+    "name" : "toast keto",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [311],
+    "calories" : 35,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 1,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-18",
+  "favorite" : false
+},{
+  "logId" : 33826330799,
+  "loggedFood" : {
+    "foodId" : 797877530,
+    "locale" : "en_US",
+    "name" : "Variety Pack Fruit Barrels Flavored Drinks",
+    "brand" : "Little Hug",
+    "accessLevel" : "PUBLIC",
+    "units" : [27],
+    "calories" : 5,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 27,
+      "name" : "bottle",
+      "plural" : "bottles"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 5,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 1.0,
+    "sodium" : 95.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2024-04-18",
+  "favorite" : false
+},{
+  "logId" : 33816076724,
+  "loggedFood" : {
+    "foodId" : 692144084,
+    "locale" : "en_US",
+    "name" : "Milk, 2% Reduced Fat",
+    "brand" : "King Soopers",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401],
+    "calories" : 60,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 2.5,
+    "fiber" : 0.0,
+    "carbs" : 6.0,
+    "sodium" : 60.0,
+    "protein" : 4.0
+  },
+  "logDate" : "2024-04-17",
+  "favorite" : false
+},{
+  "logId" : 33815348449,
+  "loggedFood" : {
+    "foodId" : 772034652,
+    "locale" : "en_US",
+    "name" : "Cereal, Frosted, Whole Grain, Large Size",
+    "brand" : "Cheerios",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 196,
+    "amount" : 1.4,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 196,
+    "fat" : 2.1,
+    "fiber" : 4.2,
+    "carbs" : 40.6,
+    "sodium" : 280.0,
+    "protein" : 4.2
+  },
+  "logDate" : "2024-04-17",
+  "favorite" : false
+},{
+  "logId" : 33815288646,
+  "loggedFood" : {
+    "foodId" : 816162321,
+    "name" : "Fajita chicken thighs",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [304],
+    "calories" : 340,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-17",
+  "favorite" : false
+},{
+  "logId" : 33815493207,
+  "loggedFood" : {
+    "foodId" : 816092514,
+    "name" : "toast keto",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [311],
+    "calories" : 35,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-17",
+  "favorite" : false
+},{
+  "logId" : 33815227554,
+  "loggedFood" : {
+    "foodId" : 811415370,
+    "locale" : "en_US",
+    "name" : "Sriracha Seasoned Premium Tuna",
+    "brand" : "Starkist",
+    "accessLevel" : "PUBLIC",
+    "units" : [273,226,180,147,389],
+    "calories" : 80,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 273,
+      "name" : "pouch",
+      "plural" : "pouches"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 80,
+    "fat" : 1.0,
+    "fiber" : 0.5,
+    "carbs" : 4.0,
+    "sodium" : 510.0,
+    "protein" : 14.0
+  },
+  "logDate" : "2024-04-17",
+  "favorite" : false
+},{
+  "logId" : 33815729098,
+  "loggedFood" : {
+    "foodId" : 789583220,
+    "locale" : "en_US",
+    "name" : "Yogurt, Zero Sugar, Vanilla",
+    "brand" : "Chobani",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 60,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 0.0,
+    "fiber" : 0.5,
+    "carbs" : 5.0,
+    "sodium" : 60.0,
+    "protein" : 11.0
+  },
+  "logDate" : "2024-04-17",
+  "favorite" : false
+},{
+  "logId" : 33815264449,
+  "loggedFood" : {
+    "foodId" : 14045516,
+    "locale" : "en_US",
+    "name" : "Sunny Side Up Egg",
+    "brand" : "The Counter",
+    "accessLevel" : "PUBLIC",
+    "units" : [304],
+    "calories" : 200,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 200,
+    "fat" : 14.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 200.0,
+    "protein" : 14.0
+  },
+  "logDate" : "2024-04-17",
+  "favorite" : false
+},{
+  "logId" : 33815431627,
+  "loggedFood" : {
+    "foodId" : 816092514,
+    "name" : "toast keto",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [311],
+    "calories" : 35,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 1,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-17",
+  "favorite" : false
+},{
+  "logId" : 33809639161,
+  "loggedFood" : {
+    "foodId" : 802493369,
+    "locale" : "en_US",
+    "name" : "Rice Crackers, Jalapeno Cilantro, Ancient Grains",
+    "brand" : "Simple truth",
+    "accessLevel" : "PUBLIC",
+    "units" : [74,226,180,147,389],
+    "calories" : 28,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 74,
+      "name" : "cracker",
+      "plural" : "crackers"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 28,
+    "fat" : 0.54,
+    "fiber" : 0.21,
+    "carbs" : 5.14,
+    "sodium" : 20.36,
+    "protein" : 0.43
+  },
+  "logDate" : "2024-04-16",
+  "favorite" : false
+},{
+  "logId" : 33809481075,
+  "loggedFood" : {
+    "foodId" : 816137434,
+    "name" : "Chickpea pasta w/beans",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [304],
+    "calories" : 590,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-16",
+  "favorite" : false
+},{
+  "logId" : 33808721414,
+  "loggedFood" : {
+    "foodId" : 789583220,
+    "locale" : "en_US",
+    "name" : "Yogurt, Zero Sugar, Vanilla",
+    "brand" : "Chobani",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 60,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 0.0,
+    "fiber" : 0.5,
+    "carbs" : 5.0,
+    "sodium" : 60.0,
+    "protein" : 11.0
+  },
+  "logDate" : "2024-04-16",
+  "favorite" : false
+},{
+  "logId" : 33809046035,
+  "loggedFood" : {
+    "foodId" : 721566279,
+    "locale" : "en_US",
+    "name" : "Snack Medleys, Cheddar Cheese",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 180,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 12.0,
+    "fiber" : 1.0,
+    "carbs" : 10.0,
+    "sodium" : 160.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2024-04-16",
+  "favorite" : false
+},{
+  "logId" : 33806840611,
+  "loggedFood" : {
+    "foodId" : 14045516,
+    "locale" : "en_US",
+    "name" : "Sunny Side Up Egg",
+    "brand" : "The Counter",
+    "accessLevel" : "PUBLIC",
+    "units" : [304],
+    "calories" : 200,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 200,
+    "fat" : 14.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 200.0,
+    "protein" : 14.0
+  },
+  "logDate" : "2024-04-16",
+  "favorite" : false
+},{
+  "logId" : 33807854432,
+  "loggedFood" : {
+    "foodId" : 816092514,
+    "name" : "toast keto",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [311],
+    "calories" : 35,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 1,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-16",
+  "favorite" : false
+},{
+  "logId" : 33808464572,
+  "loggedFood" : {
+    "foodId" : 797877530,
+    "locale" : "en_US",
+    "name" : "Variety Pack Fruit Barrels Flavored Drinks",
+    "brand" : "Little Hug",
+    "accessLevel" : "PUBLIC",
+    "units" : [27],
+    "calories" : 5,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 27,
+      "name" : "bottle",
+      "plural" : "bottles"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 5,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 1.0,
+    "sodium" : 95.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2024-04-16",
+  "favorite" : false
+},{
+  "logId" : 33802162668,
+  "loggedFood" : {
+    "foodId" : 816109669,
+    "name" : "Cereal",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [304],
+    "calories" : 420,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 6,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-15",
+  "favorite" : false
+},{
+  "logId" : 33803086108,
+  "loggedFood" : {
+    "foodId" : 816107937,
+    "name" : "Chicken rice pan Nandos",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [304],
+    "calories" : 350,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-15",
+  "favorite" : false
+},{
+  "logId" : 33801118117,
+  "loggedFood" : {
+    "foodId" : 816020412,
+    "name" : "ThinAddictives",
+    "brand" : "Nonni's",
+    "accessLevel" : "PRIVATE",
+    "units" : [17],
+    "calories" : 90,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 17,
+      "name" : "bar",
+      "plural" : "bars"
+    },
+    "mealTypeId" : 4,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-15",
+  "favorite" : false
+},{
+  "logId" : 33796888666,
+  "loggedFood" : {
+    "foodId" : 721566279,
+    "locale" : "en_US",
+    "name" : "Snack Medleys, Cheddar Cheese",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 180,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 12.0,
+    "fiber" : 1.0,
+    "carbs" : 10.0,
+    "sodium" : 160.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2024-04-15",
+  "favorite" : false
+},{
+  "logId" : 33798766745,
+  "loggedFood" : {
+    "foodId" : 789583220,
+    "locale" : "en_US",
+    "name" : "Yogurt, Zero Sugar, Vanilla",
+    "brand" : "Chobani",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 60,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 0.0,
+    "fiber" : 0.5,
+    "carbs" : 5.0,
+    "sodium" : 60.0,
+    "protein" : 11.0
+  },
+  "logDate" : "2024-04-15",
+  "favorite" : false
+},{
+  "logId" : 33798784338,
+  "loggedFood" : {
+    "foodId" : 816093336,
+    "name" : "scrambled eggs",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [304],
+    "calories" : 180,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-15",
+  "favorite" : false
+},{
+  "logId" : 33792629370,
+  "loggedFood" : {
+    "foodId" : 797877530,
+    "locale" : "en_US",
+    "name" : "Variety Pack Fruit Barrels Flavored Drinks",
+    "brand" : "Little Hug",
+    "accessLevel" : "PUBLIC",
+    "units" : [27],
+    "calories" : 5,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 27,
+      "name" : "bottle",
+      "plural" : "bottles"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 5,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 1.0,
+    "sodium" : 95.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2024-04-15",
+  "favorite" : false
+},{
+  "logId" : 33792786423,
+  "loggedFood" : {
+    "foodId" : 816092514,
+    "name" : "toast keto",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [311],
+    "calories" : 35,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 1,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-15",
+  "favorite" : false
+},{
+  "logId" : 33794011727,
+  "loggedFood" : {
+    "foodId" : 802493369,
+    "locale" : "en_US",
+    "name" : "Rice Crackers, Jalapeno Cilantro, Ancient Grains",
+    "brand" : "Simple truth",
+    "accessLevel" : "PUBLIC",
+    "units" : [74,226,180,147,389],
+    "calories" : 28,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 74,
+      "name" : "cracker",
+      "plural" : "crackers"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 28,
+    "fat" : 0.54,
+    "fiber" : 0.21,
+    "carbs" : 5.14,
+    "sodium" : 20.36,
+    "protein" : 0.43
+  },
+  "logDate" : "2024-04-14",
+  "favorite" : false
+},{
+  "logId" : 33794601083,
+  "loggedFood" : {
+    "foodId" : 816080173,
+    "name" : "Asian Food + Fruit Salad",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [304],
+    "calories" : 650,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-14",
+  "favorite" : false
+},{
+  "logId" : 33794483210,
+  "loggedFood" : {
+    "foodId" : 816020412,
+    "name" : "ThinAddictives",
+    "brand" : "Nonni's",
+    "accessLevel" : "PRIVATE",
+    "units" : [17],
+    "calories" : 90,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 17,
+      "name" : "bar",
+      "plural" : "bars"
+    },
+    "mealTypeId" : 4,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-14",
+  "favorite" : false
+},{
+  "logId" : 33786252552,
+  "loggedFood" : {
+    "foodId" : 747241186,
+    "locale" : "en_US",
+    "name" : "Snack Medleys, Pepper Jack Cheese Raisins and Roasted Peanuts",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 180,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 12.0,
+    "fiber" : 1.5,
+    "carbs" : 12.0,
+    "sodium" : 180.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2024-04-14",
+  "favorite" : false
+},{
+  "logId" : 33791701882,
+  "loggedFood" : {
+    "foodId" : 789583220,
+    "locale" : "en_US",
+    "name" : "Yogurt, Zero Sugar, Vanilla",
+    "brand" : "Chobani",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 60,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 0.0,
+    "fiber" : 0.5,
+    "carbs" : 5.0,
+    "sodium" : 60.0,
+    "protein" : 11.0
+  },
+  "logDate" : "2024-04-14",
+  "favorite" : false
+},{
+  "logId" : 33792849034,
+  "loggedFood" : {
+    "foodId" : 797877530,
+    "locale" : "en_US",
+    "name" : "Variety Pack Fruit Barrels Flavored Drinks",
+    "brand" : "Little Hug",
+    "accessLevel" : "PUBLIC",
+    "units" : [27],
+    "calories" : 5,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 27,
+      "name" : "bottle",
+      "plural" : "bottles"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 5,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 1.0,
+    "sodium" : 95.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2024-04-14",
+  "favorite" : false
+},{
+  "logId" : 33788430168,
+  "loggedFood" : {
+    "foodId" : 736318290,
+    "locale" : "en_US",
+    "name" : "Cinnamon Swirls",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 360,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 360,
+    "fat" : 10.0,
+    "fiber" : 4.0,
+    "carbs" : 64.0,
+    "sodium" : 400.0,
+    "protein" : 4.0
+  },
+  "logDate" : "2024-04-13",
+  "favorite" : false
+},{
+  "logId" : 33788164779,
+  "loggedFood" : {
+    "foodId" : 692144084,
+    "locale" : "en_US",
+    "name" : "Milk, 2% Reduced Fat",
+    "brand" : "King Soopers",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401],
+    "calories" : 120,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 120,
+    "fat" : 5.0,
+    "fiber" : 0.0,
+    "carbs" : 12.0,
+    "sodium" : 120.0,
+    "protein" : 8.0
+  },
+  "logDate" : "2024-04-13",
+  "favorite" : false
+},{
+  "logId" : 33784732453,
+  "loggedFood" : {
+    "foodId" : 816062078,
+    "name" : "Chicken potato soup",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [304],
+    "calories" : 300,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "7Y8X9J"
+  },
+  "logDate" : "2024-04-13",
+  "favorite" : false
+},{
+  "logId" : 33781711825,
+  "loggedFood" : {
+    "foodId" : 721566279,
+    "locale" : "en_US",
+    "name" : "Snack Medleys, Cheddar Cheese",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 180,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 12.0,
+    "fiber" : 1.0,
+    "carbs" : 10.0,
+    "sodium" : 160.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2024-04-13",
+  "favorite" : false
+},{
+  "logId" : 33779499767,
+  "loggedFood" : {
+    "foodId" : 796246949,
+    "locale" : "en_US",
+    "name" : "Yogurt, Zero Sugar, Toasted Coconut Vanilla Flavor",
+    "brand" : "Chobani",
+    "accessLevel" : "PUBLIC",
+    "units" : [69,226,180,147,389],
+    "calories" : 60,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 0.0,
+    "fiber" : 0.5,
+    "carbs" : 5.0,
+    "sodium" : 65.0,
+    "protein" : 11.0
+  },
+  "logDate" : "2024-04-13",
+  "favorite" : false
+}]

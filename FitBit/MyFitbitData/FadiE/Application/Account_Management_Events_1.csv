@@ -1,0 +1,6 @@
+timestamp,event_name,email,location,ip,outcome,reason
+Thu Apr 18 00:19:31 UTC 2024,Update profile data,fadiaelkhatib1@gmail.com,"Aurora, CO, United States",67.190.43.70,SUCCESS,
+Thu Mar 21 14:43:13 UTC 2024,Update profile data,fadiaelkhatib1@gmail.com,"Denver, CO, United States",67.176.1.30,SUCCESS,
+Wed Mar 06 15:36:44 UTC 2024,Update profile data,fadiaelkhatib1@gmail.com,"Denver, CO, United States",67.176.1.30,SUCCESS,
+Wed Mar 06 15:35:30 UTC 2024,Update profile data,fadiaelkhatib1@gmail.com,"Denver, CO, United States",67.176.1.30,SUCCESS,
+Wed Mar 06 01:00:44 UTC 2024,Update profile data,fadiaelkhatib1@gmail.com,"Aurora, CO, United States",67.190.43.70,SUCCESS,
