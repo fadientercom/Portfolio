@@ -1,7 +1,7 @@
 # Introduction
 The goal will be to analyze FitBit data from my Charge 5 in order to gain further insights into my health and fitness. I have loaded the data into the repo as a combination of CSV and JSON files. The data is stored in the MyFitbitData/FadiE directory. It is further broken down into several subdirectories, each of which contains data for a different type of FitBit data.
 
-## Relevant Folders
+## Relevant Folders/Files
 * Physical Activity
   * Active Zone Minutes - yyy-mm-dd.csv
   * altitude-yyyy-mm-dd.json
@@ -33,3 +33,7 @@ The goal will be to analyze FitBit data from my Charge 5 in order to gain furthe
   * food_logs-x00.json
 * Other
   * estimated_oxygen_variation-yyyy-mm-dd.csv
+* ManualData
+  * Cardio.csv
+  * Scale.csv
+  * Weight_lifting.csv
